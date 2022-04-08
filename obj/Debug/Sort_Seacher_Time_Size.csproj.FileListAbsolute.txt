@@ -1,0 +1,8 @@
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\bin\Debug\Sort_Seacher_Time_Size.exe.config
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\bin\Debug\Sort_Seacher_Time_Size.exe
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\bin\Debug\Sort_Seacher_Time_Size.pdb
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\obj\Debug\Sort_Seacher_Time_Size.csproj.AssemblyReference.cache
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\obj\Debug\Sort_Seacher_Time_Size.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\obj\Debug\Sort_Seacher_Time_Size.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\obj\Debug\Sort_Seacher_Time_Size.exe
+C:\Users\Mahmud\source\repos\Sort_Seacher_Time_Size\obj\Debug\Sort_Seacher_Time_Size.pdb
